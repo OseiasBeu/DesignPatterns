@@ -12,7 +12,6 @@ Repositório Criado para aplicar diferentes tipos de Design Patterns
   <img align="center" alt="img-1" src="Strategy/Assets/5.png">
   <img align="center" alt="img-1" src="Strategy/Assets/6.png">
   <img align="center" alt="img-1" src="Strategy/Assets/7.png">
-  <img align="center" alt="img-1" src="Strategy/Assets/8.png">
 </div>
 
 ---

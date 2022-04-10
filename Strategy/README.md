@@ -4,7 +4,8 @@ O padrão Strategy é muito útil quando temos um conjunto de algoritmos similar
 O Strategy nos oferece uma maneira flexível para escrever diversos algoritmos diferentes, e de passar esses algoritmos para classes clientes que precisam deles. Esses clientes desconhecem qual é o algoritmo "real" que está sendo executado, e apenas manda o algoritmo rodar. Isso faz com que o código da classe cliente fique bastante desacoplado das implementações dos algoritmos, possibilitando assim com que esse cliente consiga trabalhar com N diferentes algoritmos sem precisar alterar o seu código.
 
 --- 
-<div align="center" style="display: inline_block"><br>
+
+<div align="center" style="display: flex"><br>
   <img align="center" alt="img-1" src="./Assets/1.png">
   <img align="center" alt="img-1" src="./Assets/2.png">
   <img align="center" alt="img-1" src="./Assets/3.png">
@@ -12,6 +13,6 @@ O Strategy nos oferece uma maneira flexível para escrever diversos algoritmos d
   <img align="center" alt="img-1" src="./Assets/5.png">
   <img align="center" alt="img-1" src="./Assets/6.png">
   <img align="center" alt="img-1" src="./Assets/7.png">
-  <img align="center" alt="img-1" src="./Assets/8.png">
 </div>
+
 ---
