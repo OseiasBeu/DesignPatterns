@@ -28,8 +28,3 @@ class Desconto_por_cinco_itens(object):
 
 Links Úteis: 
 https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility
-https://www.devmedia.com.br/design-patterns-entendendo-os-padroes-chain-of-responsibility-command-iterator-mediator-e-memento/29397
-https://www.youtube.com/watch?v=AdzLq9FVTXs
-https://www.youtube.com/watch?v=s7VeksnnpVA
-https://www.youtube.com/watch?v=GyK1_g88rWQ
-https://www.youtube.com/watch?v=ivP70kTcFKc
